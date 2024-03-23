@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Some additional notes
 
 ## how to contribute
+
+### Copyright notice here
